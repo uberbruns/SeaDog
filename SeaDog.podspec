@@ -2,9 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "SeaDog"
   s.version      = "0.1"
   s.summary      = ""
-  s.description  = <<-DESC
-    Your description here.
-  DESC
+  s.description  = "SeaDog is a Set of NSConstraint extension to make live with auto layout even more pleasant."
   s.homepage     = "https://github.com/uberbruns/SeaDog"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Karsten Bruns" => "apps@bruns.me" }
